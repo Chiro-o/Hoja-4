@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @author Christopher Chiroy, Jose Ochoa, Diego de León
+ * @author Christopher Chiroy, Boris Cifuentes
  * @category Hoja de Trabajo 2
  */
 public class main {
